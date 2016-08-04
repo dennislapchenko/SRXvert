@@ -12,6 +12,7 @@ http://lapchenko.me/uploads/SRXvert_v0.1_FULL_PROJECT.zip
 Different interpolation sample rate converting, granulation modules and
 UI + config module
 
-ALL INFO AT: http://srxvert.lapchenko.me
+INFO AT: http://srxvert.lapchenko.me
+AND WIKI AT: https://github.com/dennislapchenko/SRXvert/wiki/What-is-this%3F
 
 DOCUMENTATION: -> To be continued...
