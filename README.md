@@ -1,4 +1,4 @@
-# SRXvert v0.1
+# SRXvert v0.1 [university project, first c++ encounter]
 Using JUCE C++ Framework. whole project files are commited to solve JUCE dependancy
 Main files in /Source & /DennisLExtensions
 
